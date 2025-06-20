@@ -10,7 +10,7 @@ A web automation script built using JavaScript to automatically:
 
 ## Tech Used
 - JavaScript
-- Puppeteer (or your actual tool)
+- Puppeteer 
 
 ## How to Run
 1. Clone the repo
